@@ -28,11 +28,11 @@ Go to project folder and execute the following command to activate venv:
 venv\Scripts\activate
 ```
 ```
-cd your_project_name
+cd project1
 ```
 To create a new spider execute:
 ```
-scrapy genspider spider alibaba.com
+scrapy genspider myspider alibaba.com
 ```
 To test and execute your spider:
 ```
