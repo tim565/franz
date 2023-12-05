@@ -27,6 +27,9 @@ Go to project folder and execute the following command to activate venv:
 ```
 venv\Scripts\activate
 ```
+```
+cd your_project_name
+```
 To create a new spider execute:
 ```
 scrapy genspider spider alibaba.com
